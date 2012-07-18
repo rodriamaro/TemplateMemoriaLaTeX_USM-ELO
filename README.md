@@ -1,4 +1,6 @@
-TemplateMemoriaLaTeX_USM-ELO
-============================
+Template Memoria LaTeX USM-ELO
+==============================
 
-Template LaTeX para memoria, estilo obligatorio departamento electrónica UTFSM 
+Template hecho en LaTeX para el departamento de electrónica, UTFSM. Estilo obligatorio del departamento.
+
+Agradecimientos para Natalia Vásquez y Nicolás Alvarez, titulados de Ing. Civil Telemática UTFSM.
